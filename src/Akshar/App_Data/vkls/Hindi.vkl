@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Hindi</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Devanagari</inscript>
+    <language code="HI ">Hindi</language>
+  </props>
+  <mappings>
+    <map key="89" shift="false" text="ब" />
+    <map key="85" shift="false" text="ह" />
+    <map key="73" shift="false" text="ग" />
+    <map key="79" shift="false" text="द" />
+    <map key="80" shift="false" text="ज" />
+    <map key="76" shift="false" text="त" />
+    <map key="75" shift="false" text="क" />
+    <map key="74" shift="false" text="र" />
+    <map key="72" shift="false" text="प" />
+    <map key="67" shift="false" text="म" />
+    <map key="86" shift="false" text="न" />
+    <map key="66" shift="false" text="व" />
+    <map key="78" shift="false" text="ल" />
+    <map key="77" shift="false" text="स" />
+    <map key="188" shift="true" text="ष" />
+    <map key="191" shift="true" text="य़" />
+    <map key="186" shift="true" text="छ" />
+    <map key="222" shift="true" text="ठ" />
+    <map key="219" shift="true" text="ढ" />
+    <map key="221" shift="true" text="ञ" />
+    <map key="187" shift="true" text="ऋ" />
+    <map key="220" shift="true" text="ऑ" />
+    <map key="77" shift="true" text="श" />
+    <map key="78" shift="true" text="ळ" />
+    <map key="66" shift="true" text="ऴ" />
+    <map key="86" shift="true" text="ऩ" />
+    <map key="67" shift="true" text="ण" />
+    <map key="90" shift="true" text="ऎ" />
+    <map key="65" shift="true" text="ओ" />
+    <map key="83" shift="true" text="ए" />
+    <map key="68" shift="true" text="अ" />
+    <map key="70" shift="true" text="इ" />
+    <map key="71" shift="true" text="उ" />
+    <map key="72" shift="true" text="फ" />
+    <map key="74" shift="true" text="ऱ" />
+    <map key="75" shift="true" text="ख" />
+    <map key="76" shift="true" text="थ" />
+    <map key="81" shift="true" text="औ" />
+    <map key="87" shift="true" text="ऐ" />
+    <map key="69" shift="true" text="आ" />
+    <map key="82" shift="true" text="ई" />
+    <map key="84" shift="true" text="ऊ" />
+    <map key="89" shift="true" text="भ" />
+    <map key="85" shift="true" text="ङ" />
+    <map key="73" shift="true" text="ग" />
+    <map key="79" shift="true" text="ध" />
+    <map key="80" shift="true" text="झ" />
+    <map key="65" shift="false" text="ो" />
+    <map key="83" shift="false" text="े" />
+    <map key="68" shift="false" text="्" />
+    <map key="70" shift="false" text="ि" />
+    <map key="71" shift="false" text="ु" />
+    <map key="90" shift="false" text="ॆ" />
+    <map key="88" shift="false" text="ं" />
+    <map key="81" shift="false" text="ौ" />
+    <map key="87" shift="false" text="ै" />
+    <map key="69" shift="false" text="ा" />
+    <map key="82" shift="false" text="ी" />
+    <map key="84" shift="false" text="ू" />
+    <map key="49" shift="true" text="ऍ" />
+    <map key="51" shift="true" text="र" />
+    <map key="52" shift="true" text="र्" />
+    <map key="53" shift="true" text="ज्ञ" />
+    <map key="54" shift="true" text="त्र" />
+    <map key="55" shift="true" text="क्ष" />
+    <map key="56" shift="true" text="श्र" />
+    <map key="57" shift="true" text="(" />
+    <map key="48" shift="true" text=")" />
+    <map key="189" shift="false" text="-" />
+    <map key="192" shift="true" text="ऒ" />
+    <map key="192" shift="false" text="ॊ" />
+    <map key="188" shift="false" text="," />
+    <map key="190" shift="false" text="." />
+    <map key="221" shift="false" text="़" />
+    <map key="219" shift="false" text="ड" />
+    <map key="186" shift="false" text="च" />
+    <map key="222" shift="false" text="ट" />
+    <map key="191" shift="false" text="य" />
+    <map key="48" shift="false" text="०" />
+    <map key="49" shift="false" text="१" />
+    <map key="50" shift="false" text="२" />
+    <map key="51" shift="false" text="३" />
+    <map key="52" shift="false" text="५" />
+    <map key="53" shift="false" text="५" />
+    <map key="54" shift="false" text="६" />
+    <map key="55" shift="false" text="७" />
+    <map key="56" shift="false" text="८" />
+    <map key="57" shift="false" text="९" />
+  </mappings>
+</keyboard>

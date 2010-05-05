@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Kannada</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Kannada</inscript>
+    <language code="KN">Kannada</language>
+  </props>
+  <mappings>
+    <map key="77" shift="false" text="ಸ" />
+    <map key="78" shift="false" text="ಲ" />
+    <map key="66" shift="false" text="ವ" />
+    <map key="86" shift="false" text="ನ" />
+    <map key="67" shift="false" text="ಮ" />
+    <map key="88" shift="false" text="ಂ" />
+    <map key="90" shift="false" text="ೆ" />
+    <map key="76" shift="false" text="ತ" />
+    <map key="75" shift="false" text="ಕ" />
+    <map key="74" shift="false" text="ರ" />
+    <map key="72" shift="false" text="ಪ" />
+    <map key="71" shift="false" text="ು" />
+    <map key="70" shift="false" text="ಿ" />
+    <map key="68" shift="false" text="್" />
+    <map key="83" shift="false" text="ೇ" />
+    <map key="65" shift="false" text="ೋ" />
+    <map key="80" shift="false" text="ಜ" />
+    <map key="79" shift="false" text="ದ" />
+    <map key="73" shift="false" text="ಗ" />
+    <map key="85" shift="false" text="ಹ" />
+    <map key="89" shift="false" text="ಬ" />
+    <map key="84" shift="false" text="ೂ" />
+    <map key="82" shift="false" text="ೀ" />
+    <map key="69" shift="false" text="ಾ" />
+    <map key="87" shift="false" text="ೈ" />
+    <map key="81" shift="false" text="ೌ" />
+    <map key="192" shift="false" text="ೊ" />
+    <map key="219" shift="false" text="ಡ" />
+    <map key="222" shift="false" text="ಟ" />
+    <map key="186" shift="false" text="ಚ" />
+    <map key="191" shift="false" text="ಯ" />
+    <map key="190" shift="false" text="." />
+    <map key="188" shift="false" text="," />
+    <map key="187" shift="false" text="ೃ" />
+    <map key="189" shift="false" text="-" />
+    <map key="48" shift="false" text="0" />
+    <map key="57" shift="false" text="9" />
+    <map key="56" shift="false" text="8" />
+    <map key="55" shift="false" text="7" />
+    <map key="54" shift="false" text="6" />
+    <map key="53" shift="false" text="5" />
+    <map key="52" shift="false" text="4" />
+    <map key="51" shift="false" text="3" />
+    <map key="50" shift="false" text="2" />
+    <map key="49" shift="false" text="1" />
+    <map key="51" shift="true" text="್ರ" />
+    <map key="52" shift="true" text="ರ್" />
+    <map key="53" shift="true" text="ಜ್ಞ" />
+    <map key="54" shift="true" text="ತ್ರ" />
+    <map key="55" shift="true" text="ಕ್ಷ" />
+    <map key="56" shift="true" text="ಶ್ರ" />
+    <map key="57" shift="true" text="(" />
+    <map key="48" shift="true" text=")" />
+    <map key="81" shift="true" text="ಔ" />
+    <map key="87" shift="true" text="ಐ" />
+    <map key="69" shift="true" text="ಆ" />
+    <map key="82" shift="true" text="ಈ" />
+    <map key="84" shift="true" text="ಊ" />
+    <map key="89" shift="true" text="ಭ" />
+    <map key="85" shift="true" text="ಙ" />
+    <map key="73" shift="true" text="ಘ" />
+    <map key="79" shift="true" text="ಧ" />
+    <map key="80" shift="true" text="ಝ" />
+    <map key="219" shift="true" text="ಢ" />
+    <map key="221" shift="true" text="ಞ" />
+    <map key="222" shift="true" text="ಠ" />
+    <map key="186" shift="true" text="ಛ" />
+    <map key="76" shift="true" text="ಥ" />
+    <map key="75" shift="true" text="ಖ" />
+    <map key="74" shift="true" text="ಱ" />
+    <map key="72" shift="true" text="ಫ" />
+    <map key="71" shift="true" text="ಉ" />
+    <map key="70" shift="true" text="ಇ" />
+    <map key="68" shift="true" text="ಅ" />
+    <map key="83" shift="true" text="ಏ" />
+    <map key="65" shift="true" text="ಓ" />
+    <map key="192" shift="true" text="ಒ" />
+    <map key="90" shift="true" text="ಎ" />
+    <map key="67" shift="true" text="ಣ" />
+    <map key="78" shift="true" text="ಳ" />
+    <map key="77" shift="true" text="ಶ" />
+    <map key="190" shift="true" text="|" />
+    <map key="188" shift="true" text="ಷ" />
+  </mappings>
+</keyboard>

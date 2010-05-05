@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Russian</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Cyrillic</inscript>
+    <language code="RU">Russian</language>
+  </props>
+  <mappings>
+    <map key="90" shift="false" text="я" />
+    <map key="88" shift="false" text="ч" />
+    <map key="67" shift="false" text="с" />
+    <map key="86" shift="false" text="м" />
+    <map key="66" shift="false" text="и" />
+    <map key="78" shift="false" text="т" />
+    <map key="77" shift="false" text="ь" />
+    <map key="188" shift="false" text="б" />
+    <map key="190" shift="false" text="ю" />
+    <map key="191" shift="false" text="." />
+    <map key="222" shift="false" text="э" />
+    <map key="186" shift="false" text="ж" />
+    <map key="76" shift="false" text="д" />
+    <map key="75" shift="false" text="л" />
+    <map key="74" shift="false" text="о" />
+    <map key="72" shift="false" text="р" />
+    <map key="71" shift="false" text="п" />
+    <map key="70" shift="false" text="а" />
+    <map key="68" shift="false" text="в" />
+    <map key="83" shift="false" text="ы" />
+    <map key="65" shift="false" text="ф" />
+    <map key="81" shift="false" text="й" />
+    <map key="87" shift="false" text="ц" />
+    <map key="69" shift="false" text="у" />
+    <map key="82" shift="false" text="к" />
+    <map key="84" shift="false" text="е" />
+    <map key="89" shift="false" text="н" />
+    <map key="85" shift="false" text="г" />
+    <map key="73" shift="false" text="ш" />
+    <map key="79" shift="false" text="щ" />
+    <map key="80" shift="false" text="з" />
+    <map key="219" shift="false" text="х" />
+    <map key="221" shift="false" text="ъ" />
+    <map key="220" shift="false" text="\" />
+    <map key="187" shift="false" text="=" />
+    <map key="189" shift="false" text="-" />
+    <map key="48" shift="false" text="0" />
+    <map key="57" shift="false" text="9" />
+    <map key="56" shift="false" text="8" />
+    <map key="55" shift="false" text="7" />
+    <map key="54" shift="false" text="6" />
+    <map key="53" shift="false" text="5" />
+    <map key="52" shift="false" text="4" />
+    <map key="51" shift="false" text="3" />
+    <map key="50" shift="false" text="2" />
+    <map key="49" shift="false" text="1" />
+    <map key="192" shift="false" text="ё" />
+    <map key="192" shift="true" text="Ё" />
+    <map key="49" shift="true" text="!" />
+    <map key="50" shift="true" text="&quot;" />
+    <map key="51" shift="true" text="№" />
+    <map key="52" shift="true" text=";" />
+    <map key="53" shift="true" text="%" />
+    <map key="54" shift="true" text=":" />
+    <map key="55" shift="true" text="?" />
+    <map key="56" shift="true" text="*" />
+    <map key="57" shift="true" text="(" />
+    <map key="48" shift="true" text=")" />
+    <map key="189" shift="true" text="_" />
+    <map key="187" shift="true" text="+" />
+    <map key="220" shift="true" text="/" />
+    <map key="221" shift="true" text="Ъ" />
+    <map key="219" shift="true" text="Х" />
+    <map key="80" shift="true" text="З" />
+    <map key="79" shift="true" text="Щ" />
+    <map key="73" shift="true" text="Ш" />
+    <map key="85" shift="true" text="Г" />
+    <map key="89" shift="true" text="Н" />
+    <map key="84" shift="true" text="Е" />
+    <map key="82" shift="true" text="К" />
+    <map key="69" shift="true" text="У" />
+    <map key="87" shift="true" text="Ц" />
+    <map key="81" shift="true" text="Й" />
+    <map key="65" shift="true" text="Ф" />
+    <map key="83" shift="true" text="Ы" />
+    <map key="68" shift="true" text="В" />
+    <map key="70" shift="true" text="А" />
+    <map key="71" shift="true" text="П" />
+    <map key="72" shift="true" text="Р" />
+    <map key="74" shift="true" text="О" />
+    <map key="75" shift="true" text="Л" />
+    <map key="76" shift="true" text="Д" />
+    <map key="186" shift="true" text="Ж" />
+    <map key="222" shift="true" text="Э" />
+    <map key="191" shift="true" text="," />
+    <map key="190" shift="true" text="Ю" />
+    <map key="188" shift="true" text="Б" />
+    <map key="77" shift="true" text="Ь" />
+    <map key="78" shift="true" text="Т" />
+    <map key="66" shift="true" text="И" />
+    <map key="86" shift="true" text="М" />
+    <map key="67" shift="true" text="С" />
+    <map key="88" shift="true" text="Ч" />
+    <map key="90" shift="true" text="Я" />
+  </mappings>
+</keyboard>

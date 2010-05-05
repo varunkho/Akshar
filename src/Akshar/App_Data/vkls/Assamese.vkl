@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Assamese</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Bengali</inscript>
+    <language code="AS">Assamese</language>
+  </props>
+  <mappings>
+    <map key="81" shift="false" text="ৌ" />
+    <map key="87" shift="false" text="ৈ" />
+    <map key="69" shift="false" text="া" />
+    <map key="82" shift="false" text="ী" />
+    <map key="84" shift="false" text="ূ" />
+    <map key="89" shift="false" text="ব" />
+    <map key="85" shift="false" text="হ" />
+    <map key="73" shift="false" text="গ" />
+    <map key="79" shift="false" text="দ" />
+    <map key="80" shift="false" text="জ" />
+    <map key="219" shift="false" text="ড" />
+    <map key="221" shift="false" text="়" />
+    <map key="187" shift="false" text="ৃ" />
+    <map key="189" shift="false" text="-" />
+    <map key="48" shift="false" text="০" />
+    <map key="57" shift="false" text="৯" />
+    <map key="56" shift="false" text="৮" />
+    <map key="55" shift="false" text="৭" />
+    <map key="54" shift="false" text="৬" />
+    <map key="53" shift="false" text="৫" />
+    <map key="52" shift="false" text="৪" />
+    <map key="51" shift="false" text="৩" />
+    <map key="50" shift="false" text="২" />
+    <map key="49" shift="false" text="১" />
+    <map key="65" shift="false" text="ো" />
+    <map key="68" shift="false" text="্" />
+    <map key="70" shift="false" text="ি" />
+    <map key="71" shift="false" text="ু" />
+    <map key="72" shift="false" text="প" />
+    <map key="74" shift="false" text="র" />
+    <map key="75" shift="false" text="ক" />
+    <map key="76" shift="false" text="ত" />
+    <map key="186" shift="false" text="চ" />
+    <map key="222" shift="false" text="ট" />
+    <map key="191" shift="false" text="য়" />
+    <map key="190" shift="false" text="." />
+    <map key="188" shift="false" text="," />
+    <map key="77" shift="false" text="স" />
+    <map key="78" shift="false" text="ল" />
+    <map key="66" shift="false" text="ব" />
+    <map key="86" shift="false" text="ন" />
+    <map key="67" shift="false" text="ম" />
+    <map key="88" shift="false" text="ং" />
+    <map key="88" shift="true" text="ঁ" />
+    <map key="67" shift="true" text="ণ" />
+    <map key="77" shift="true" text="শ" />
+    <map key="188" shift="true" text="ষ" />
+    <map key="191" shift="true" text="য" />
+    <map key="222" shift="true" text="ঠ" />
+    <map key="186" shift="true" text="ছ" />
+    <map key="76" shift="true" text="থ" />
+    <map key="75" shift="true" text="খ" />
+    <map key="72" shift="true" text="ফ" />
+    <map key="71" shift="true" text="উ" />
+    <map key="70" shift="true" text="ই" />
+    <map key="68" shift="true" text="অ" />
+    <map key="83" shift="true" text="এ" />
+    <map key="65" shift="true" text="ও" />
+    <map key="81" shift="true" text="ঔ" />
+    <map key="87" shift="true" text="ঐ" />
+    <map key="69" shift="true" text="আ" />
+    <map key="82" shift="true" text="ঈ" />
+    <map key="84" shift="true" text="ঊ" />
+    <map key="89" shift="true" text="ভ" />
+    <map key="85" shift="true" text="ঙ" />
+    <map key="73" shift="true" text="ঘ" />
+    <map key="79" shift="true" text="ধ" />
+    <map key="80" shift="true" text="ঝ" />
+    <map key="219" shift="true" text="ঢ" />
+    <map key="221" shift="true" text="ঞ" />
+    <map key="187" shift="true" text="ঋ" />
+    <map key="189" shift="true" text="ঃ" />
+    <map key="48" shift="true" text=")" />
+    <map key="57" shift="true" text="(" />
+    <map key="56" shift="true" text="শ্র" />
+    <map key="55" shift="true" text="ক্ষ" />
+    <map key="54" shift="true" text="ত্র" />
+    <map key="53" shift="true" text="জ্ঞ" />
+    <map key="52" shift="true" text="র্" />
+    <map key="50" shift="true" text="@" />
+    <map key="49" shift="true" text="!" />
+    <map key="83" shift="false" text="ে" />
+  </mappings>
+</keyboard>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Tamil</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Tamil</inscript>
+    <language code="TA-IN">Tamil</language>
+  </props>
+  <mappings>
+    <map key="192" shift="false" text="ொ" />
+    <map key="81" shift="false" text="ௌ" />
+    <map key="87" shift="false" text="ை" />
+    <map key="69" shift="false" text="ா" />
+    <map key="82" shift="false" text="ீ" />
+    <map key="84" shift="false" text="ூ" />
+    <map key="89" shift="false" text="ப" />
+    <map key="85" shift="false" text="ஹ" />
+    <map key="73" shift="false" text="க" />
+    <map key="79" shift="false" text="த" />
+    <map key="80" shift="false" text="ஜ" />
+    <map key="219" shift="false" text="ட" />
+    <map key="221" shift="false" text="ஞ" />
+    <map key="222" shift="false" text="ட" />
+    <map key="186" shift="false" text="ச" />
+    <map key="76" shift="false" text="த" />
+    <map key="75" shift="false" text="க" />
+    <map key="74" shift="false" text="ர" />
+    <map key="72" shift="false" text="ப" />
+    <map key="71" shift="false" text="ு" />
+    <map key="70" shift="false" text="ி" />
+    <map key="68" shift="false" text="்" />
+    <map key="83" shift="false" text="ே" />
+    <map key="65" shift="false" text="ோ" />
+    <map key="90" shift="false" text="ெ" />
+    <map key="67" shift="false" text="ம" />
+    <map key="86" shift="false" text="ந" />
+    <map key="66" shift="false" text="வ" />
+    <map key="78" shift="false" text="ல" />
+    <map key="77" shift="false" text="ஸ" />
+    <map key="188" shift="false" text="," />
+    <map key="190" shift="false" text="." />
+    <map key="191" shift="false" text="ய" />
+    <map key="90" shift="true" text="எ" />
+    <map key="67" shift="true" text="ண" />
+    <map key="86" shift="true" text="ன" />
+    <map key="66" shift="true" text="ழ" />
+    <map key="78" shift="true" text="ள" />
+    <map key="77" shift="true" text="ஷ" />
+    <map key="188" shift="true" text="ஷ" />
+    <map key="190" shift="true" text="ஸ்ரீ" />
+    <map key="191" shift="true" text="ய" />
+    <map key="222" shift="true" text="ட" />
+    <map key="186" shift="true" text="ச" />
+    <map key="76" shift="true" text="த" />
+    <map key="75" shift="true" text="க" />
+    <map key="74" shift="true" text="ற" />
+    <map key="72" shift="true" text="ப" />
+    <map key="71" shift="true" text="உ" />
+    <map key="70" shift="true" text="இ" />
+    <map key="68" shift="true" text="அ" />
+    <map key="83" shift="true" text="ஏ" />
+    <map key="65" shift="true" text="ஓ" />
+    <map key="81" shift="true" text="ஔ" />
+    <map key="87" shift="true" text="ஐ" />
+    <map key="69" shift="true" text="ஆ" />
+    <map key="82" shift="true" text="ஈ" />
+    <map key="84" shift="true" text="ஊ" />
+    <map key="89" shift="true" text="ப" />
+    <map key="85" shift="true" text="ங" />
+    <map key="73" shift="true" text="க" />
+    <map key="79" shift="true" text="த" />
+    <map key="80" shift="true" text="ச" />
+    <map key="219" shift="true" text="ட" />
+    <map key="56" shift="true" text="ஷ்ர" />
+    <map key="55" shift="true" text="க்ஷ" />
+    <map key="54" shift="true" text="த்ர" />
+    <map key="192" shift="true" text="ஒ" />
+    <map key="49" shift="false" text="1" />
+    <map key="50" shift="false" text="2" />
+    <map key="51" shift="false" text="3" />
+    <map key="52" shift="false" text="4" />
+    <map key="53" shift="false" text="5" />
+    <map key="54" shift="false" text="6" />
+    <map key="55" shift="false" text="7" />
+    <map key="56" shift="false" text="8" />
+    <map key="57" shift="false" text="9" />
+    <map key="48" shift="false" text="0" />
+  </mappings>
+</keyboard>

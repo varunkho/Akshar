@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akshar", "Akshar\Akshar.csproj", "{D095A5E8-8B24-4A8D-82C7-7571E9F423C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkshLib", "AkshLib\AkshLib.csproj", "{DE5A41EB-D213-4BEF-984A-445B302AB2EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02FB05A1-6D70-4F1A-AC8B-2E200A078CDB}"
+	ProjectSection(SolutionItems) = preProject
+		wishlist.txt = wishlist.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{02A3321D-3AF0-4792-BD74-BBA1A986E1CB}"
+	ProjectSection(SolutionItems) = preProject
+		scripts\01-tables.sql = scripts\01-tables.sql
+		scripts\02-SPs.sql = scripts\02-SPs.sql
+		scripts\03-inserts.sql = scripts\03-inserts.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D095A5E8-8B24-4A8D-82C7-7571E9F423C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D095A5E8-8B24-4A8D-82C7-7571E9F423C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D095A5E8-8B24-4A8D-82C7-7571E9F423C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D095A5E8-8B24-4A8D-82C7-7571E9F423C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5A41EB-D213-4BEF-984A-445B302AB2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5A41EB-D213-4BEF-984A-445B302AB2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5A41EB-D213-4BEF-984A-445B302AB2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5A41EB-D213-4BEF-984A-445B302AB2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02A3321D-3AF0-4792-BD74-BBA1A986E1CB} = {02FB05A1-6D70-4F1A-AC8B-2E200A078CDB}
+	EndGlobalSection
+EndGlobal

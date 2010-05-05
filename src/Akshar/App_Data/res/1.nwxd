@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <class id="3">
+    <original c="hello" k="this is&lt;h&gt;" f="ha" hf="ha" />
+    <modified />
+  </class>
+</resources>

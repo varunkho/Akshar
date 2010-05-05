@@ -1,0 +1,79 @@
+        body 
+        {
+border: 0;MARGIN: 0;padding:0;
+        	font-family: Arial, Tahoma, Verdana;
+        	font-size: 13px;
+        	width: 100%;
+        }
+        div 
+        {
+        	width: 100%;
+        	padding: 6px 10px 6px 10px;
+        }
+#header 
+{
+	background: url(/images/akshar.gif) no-repeat 0 0;
+	height: 150px;
+}
+
+    #navBar
+    {
+    	list-style: none;
+        float:left;
+        width: 800px;
+        background: url(/images/menu-back.png) no-repeat 0 0;
+        padding: 0;
+        margin: 0;
+        margin-left: 170px;
+        padding-left: 50px;
+        }
+
+#navBar li
+{
+        float:left;
+        padding: 0;margin: 0;
+}
+    #navBar li a
+{
+  float: left;
+    display: block;
+          color: Black;
+          font-size: 14px;
+          font-weight: bold;
+  text-decoration: none;
+  margin: 0;
+  padding: 8px 20px 16px 20px;
+}
+
+#navBar li a:hover
+{
+background:url(/images/uline.png) no-repeat center bottom;
+}
+
+#content
+    {
+    	min-height: 320px;
+width: 95%;
+margin: 0 auto 0 auto;
+    }
+
+       #footer
+        {
+text-align: center;
+        }
+        .spacer { clear: both; line-height: 0; height: 0; padding: 0; margin: 0;}
+
+p 
+{
+padding-right: 10px;
+		white-space: pre-wrap; /* css-3 */
+	white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
+	}
+
+
+                h1 {
+        font-family:Lucida Sans Unicode ;
+        }

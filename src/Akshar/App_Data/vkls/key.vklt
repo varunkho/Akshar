@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Specify any additional (complementary) information about a particular virtual keyboard layout -->
+<keyboard>
+  <props>
+    <uid></uid>
+    <name></name>
+    <type>key</type>
+    <author></author>
+    <inscript></inscript>
+    <language code=""></language>
+  </props>
+  </keyboard>

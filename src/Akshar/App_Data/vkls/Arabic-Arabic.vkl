@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Arabic-Arabic</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Arabic</inscript>
+    <language code="AR-IN">Arabic</language>
+  </props>
+  <mappings>
+    <map key="80" shift="false" text="ح" />
+    <map key="79" shift="false" text="خ" />
+    <map key="73" shift="false" text="ه" />
+    <map key="85" shift="false" text="ع" />
+    <map key="89" shift="false" text="غ" />
+    <map key="84" shift="false" text="ف" />
+    <map key="82" shift="false" text="ق" />
+    <map key="69" shift="false" text="ث" />
+    <map key="87" shift="false" text="ص" />
+    <map key="81" shift="false" text="ض" />
+    <map key="76" shift="false" text="م" />
+    <map key="75" shift="false" text="ن" />
+    <map key="74" shift="false" text="ت" />
+    <map key="72" shift="false" text="ا" />
+    <map key="71" shift="false" text="ل" />
+    <map key="70" shift="false" text="ب" />
+    <map key="68" shift="false" text="ي" />
+    <map key="83" shift="false" text="س" />
+    <map key="65" shift="false" text="ش" />
+    <map key="77" shift="false" text="ة" />
+    <map key="78" shift="false" text="ى" />
+    <map key="66" shift="false" text="لا" />
+    <map key="86" shift="false" text="ر" />
+    <map key="67" shift="false" text="ؤ" />
+    <map key="88" shift="false" text="ء" />
+    <map key="90" shift="false" text="ئ" />
+    <map key="219" shift="false" text="ج" />
+    <map key="221" shift="false" text="د" />
+    <map key="186" shift="false" text="ك" />
+    <map key="222" shift="false" text="ط" />
+    <map key="188" shift="false" text="و" />
+    <map key="190" shift="false" text="ز" />
+    <map key="191" shift="false" text="ظ" />
+    <map key="191" shift="true" text="؟" />
+    <map key="190" shift="true" text="." />
+    <map key="188" shift="true" text="," />
+    <map key="222" shift="true" text="&quot;" />
+    <map key="186" shift="true" text=":" />
+    <map key="221" shift="true" text="&gt;" />
+    <map key="219" shift="true" text="&lt;" />
+    <map key="77" shift="true" text="’" />
+    <map key="78" shift="true" text="آ" />
+    <map key="66" shift="true" text="لآ" />
+    <map key="86" shift="true" text="{" />
+    <map key="67" shift="true" text="}" />
+    <map key="88" shift="true" text="ْ" />
+    <map key="90" shift="true" text="~" />
+    <map key="76" shift="true" text="/" />
+    <map key="75" shift="true" text="،" />
+    <map key="74" shift="true" text="ـ" />
+    <map key="72" shift="true" text="أ" />
+    <map key="71" shift="true" text="لأ" />
+    <map key="70" shift="true" text="[" />
+    <map key="68" shift="true" text="]" />
+    <map key="83" shift="true" text="ٍ" />
+    <map key="65" shift="true" text="ِ" />
+    <map key="80" shift="true" text="؛" />
+    <map key="79" shift="true" text="×" />
+    <map key="73" shift="true" text="÷" />
+    <map key="85" shift="true" text="‘" />
+    <map key="89" shift="true" text="إ" />
+    <map key="84" shift="true" text="لإ" />
+    <map key="82" shift="true" text="ٌ" />
+    <map key="69" shift="true" text="ُ" />
+    <map key="87" shift="true" text="ً" />
+    <map key="81" shift="true" text="َ" />
+    <map key="49" shift="true" text="!" />
+    <map key="50" shift="true" text="@" />
+    <map key="51" shift="true" text="#" />
+    <map key="52" shift="true" text="$" />
+    <map key="53" shift="true" text="%" />
+    <map key="54" shift="true" text="^" />
+    <map key="55" shift="true" text="&amp;" />
+    <map key="56" shift="true" text="*" />
+    <map key="57" shift="true" text=")" />
+    <map key="48" shift="true" text="(" />
+    <map key="49" shift="false" text="1" />
+    <map key="50" shift="false" text="2" />
+    <map key="51" shift="false" text="3" />
+    <map key="52" shift="false" text="4" />
+    <map key="53" shift="false" text="5" />
+    <map key="54" shift="false" text="6" />
+    <map key="55" shift="false" text="7" />
+    <map key="56" shift="false" text="8" />
+    <map key="57" shift="false" text="9" />
+    <map key="48" shift="false" text="0" />
+  </mappings>
+</keyboard>

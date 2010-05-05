@@ -1,0 +1,19 @@
+﻿1. Multilingual: Write in any language; Create/edit a keyboard layout for your specific language.
+1.1 abbility to add dependent rule(s) to a key-character map (KCM) like this:
+if A then, print B (total two columns)
+Here A can be a sequence of literal characters, a range (an abbility to create ranges separately may be provided, which will save time and redundancy.) 
+or a regular expression (however with very limited functionality in order to avoid performance degradation) (need to ponder over proes and cons of this particular feature.)
+B is ideally the character to print (that will actually replace A if cursor pointing to one in the edit box.)
+1.2 An abbility to make a KCM a  key sequence like this:
+key1 shift 
+key2 shift 
+...
+character (to output)
+a key sequence will have the higher precedence over dependent rule (a user may be disallowed to create such conflicting KCMs, for that matter.)
+2. Brail Keyboard Layout: Create brail keyboard layouts for any language to provide inputs with only six keys.
+3. VKM library: attach to any edit pane in any website in a few easy steps to implement the above features.
+4. Dictionary: create custom dictionaries for Akshar
+5. Type phanetically
+6. Auto finish
+7. accessible and Quick formatting
+8. find & replace in any language

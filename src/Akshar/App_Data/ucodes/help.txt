@@ -1,0 +1,11 @@
+﻿for conversion:
+1. Delete all unnecessary html around and within (including not needed columns).
+2. Properly set the table's id, header row and bottom of the table.
+3. Replace " class=b" with "".
+4. Replace "    " with "" (it would delete indentation before TDs).
+5. Replace "  <T" with "<T" (it would delete indentation before TRs).
+6. Using regular expression search, replace "\<tr\>\n\<td\>" with "<TR><TD>" (it will delete new line between TRs and TDs).
+7. Using regular expression search, replace "\</td\>\n\<td\>" with "</TD><TD>" (it will delete new line between TDs of individual TRs).
+
+
+

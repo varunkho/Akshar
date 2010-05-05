@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>French</name>
+    <type>Key</type>
+    <author>tarun</author>
+    <inscript>Basic Latin</inscript>
+    <language code="FR ">French</language>
+  </props>
+  <mappings>
+    <map key="87" shift="false" text="w" />
+    <map key="88" shift="false" text="x" />
+    <map key="67" shift="false" text="c" />
+    <map key="86" shift="false" text="v" />
+    <map key="66" shift="false" text="b" />
+    <map key="78" shift="false" text="n" />
+    <map key="188" shift="false" text="," />
+    <map key="190" shift="false" text=";" />
+    <map key="191" shift="false" text=":" />
+    <map key="187" shift="false" text="=" />
+    <map key="192" shift="false" text="ù" />
+    <map key="77" shift="false" text="m" />
+    <map key="76" shift="false" text="l" />
+    <map key="75" shift="false" text="k" />
+    <map key="74" shift="false" text="j" />
+    <map key="72" shift="false" text="h" />
+    <map key="71" shift="false" text="g" />
+    <map key="70" shift="false" text="f" />
+    <map key="68" shift="false" text="d" />
+    <map key="83" shift="false" text="s" />
+    <map key="81" shift="false" text="q" />
+    <map key="65" shift="false" text="a" />
+    <map key="90" shift="false" text="z" />
+    <map key="69" shift="false" text="e" />
+    <map key="82" shift="false" text="r" />
+    <map key="84" shift="false" text="t" />
+    <map key="89" shift="false" text="y" />
+    <map key="85" shift="false" text="u" />
+    <map key="73" shift="false" text="i" />
+    <map key="79" shift="false" text="o" />
+    <map key="80" shift="false" text="p" />
+    <map key="221" shift="false" text="^^" />
+    <map key="186" shift="false" text="$" />
+    <map key="220" shift="false" text="µ" />
+    <map key="189" shift="false" text="-" />
+    <map key="219" shift="false" text=")" />
+    <map key="48" shift="false" text="à" />
+    <map key="57" shift="false" text="ç" />
+    <map key="56" shift="false" text="!" />
+    <map key="55" shift="false" text="è" />
+    <map key="54" shift="false" text="§" />
+    <map key="53" shift="false" text="(" />
+    <map key="52" shift="false" text="'" />
+    <map key="51" shift="false" text="&quot;" />
+    <map key="50" shift="false" text="é" />
+    <map key="49" shift="false" text="&amp;" />
+    <map key="222" shift="false" text="²" />
+    <map key="222" shift="true" text="³" />
+    <map key="49" shift="true" text="1" />
+    <map key="50" shift="true" text="2" />
+    <map key="51" shift="true" text="3" />
+    <map key="52" shift="true" text="4" />
+    <map key="53" shift="true" text="5" />
+    <map key="54" shift="true" text="6" />
+    <map key="55" shift="true" text="7" />
+    <map key="56" shift="true" text="8" />
+    <map key="57" shift="true" text="9" />
+    <map key="48" shift="true" text="0" />
+    <map key="219" shift="true" text="°" />
+    <map key="189" shift="true" text="_" />
+    <map key="220" shift="true" text="£" />
+    <map key="186" shift="true" text="*" />
+    <map key="221" shift="true" text="¨¨" />
+    <map key="80" shift="true" text="¨P" />
+    <map key="79" shift="true" text="O" />
+    <map key="73" shift="true" text="I" />
+    <map key="85" shift="true" text="U" />
+    <map key="89" shift="true" text="Y" />
+    <map key="84" shift="true" text="T" />
+    <map key="82" shift="true" text="R" />
+    <map key="69" shift="true" text="E" />
+    <map key="90" shift="true" text="Z" />
+    <map key="65" shift="true" text="A" />
+    <map key="81" shift="true" text="Q" />
+    <map key="83" shift="true" text="S" />
+    <map key="68" shift="true" text="D" />
+    <map key="70" shift="true" text="F" />
+    <map key="71" shift="true" text="G" />
+    <map key="72" shift="true" text="H" />
+    <map key="74" shift="true" text="J" />
+    <map key="75" shift="true" text="K" />
+    <map key="76" shift="true" text="L" />
+    <map key="77" shift="true" text="M" />
+    <map key="192" shift="true" text="%" />
+    <map key="187" shift="true" text="+" />
+    <map key="191" shift="true" text="/" />
+    <map key="190" shift="true" text="." />
+    <map key="188" shift="true" text="?" />
+    <map key="78" shift="true" text="N" />
+    <map key="66" shift="true" text="B" />
+    <map key="86" shift="true" text="V" />
+    <map key="67" shift="true" text="C" />
+    <map key="88" shift="true" text="X" />
+    <map key="87" shift="true" text="W" />
+  </mappings>
+</keyboard>

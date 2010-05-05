@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <props>
+    <uid></uid>
+    <name>Telugu</name>
+    <type>Key</type>
+    <author>myvarun</author>
+    <inscript>Telugu</inscript>
+    <language code="TE">Telugu</language>
+  </props>
+  <mappings>
+    <map key="65" shift="false" text="ఁ" />
+    <map key="66" shift="false" text="ం" />
+    <map key="67" shift="false" text="ః" />
+    <map key="68" shift="true" text="అ" />
+    <map key="84" shift="true" text="ఆ" />
+    <map key="74" shift="false" text="ఇ" />
+    <map key="90" shift="true" text="j" />
+    <map key="89" shift="true" text="y" />
+    <map key="79" shift="false" text="౾" />
+  </mappings>
+</keyboard>

@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Embed Multilingual Editing Support in Your Website</title>
+    <link rel="Stylesheet" type="text/css" href="/layout.css" />
+    <style>
+       h1, h2, h3 {
+        text-align:center;
+        }
+    </style>
+</head>
+<body>
+<div id="header" role="navigation">
+<ul id="navBar">
+<li><a href="index.html">Home</a></li>
+<li><a href="Akshar.aspx">Akshar</a></li>
+<li><a href="accessibility.html">Accessibility</a></li>
+<li><a href="embed.html">Embed</a></li>
+<li><a href="vkl-faq.html">VKL FAQ</a></li>
+<li><a href="account.aspx">My Account</a></li>
+</ul>
+<br class="spacer" />
+</div>
+<div id="content" role="main">
+<h1 >Embed Multilingual Editing Support in Your Website</h1>
+<p>One of the primary efforts behind Akshar is to create an infrastructure that provides for  unconstrained and independent mechanism for writing in any language, without any specific support from technology not built into the web. 
+The goal is intrinsically related to free the web from such support as well, and this objective calls for Akshar’s VKL technology to be embeddable in any site.</p>
+<h2>Follow These Four Simple Steps and have Your Site Ready to be Truly Multilingual!</h2>
+<ol>
+<li>You know what language(s) you want to enable for writing in your site. So first find out a Virtual Keyboard Layout (VKL) for that language by going to <a href="akshar.aspx">Akshar</a>. From the Language menu, choose add ..., and from the dialog box that appears, choose the language and note down the name of VKL you desire. Also remember the type of VKL you choose (Key based is usually preferred).
+<p>Couldn’t find a VKL for your language? No problem! You can <a href="keyboard.aspx">create your own</a>. It’s very easy!</p>
+</li>
+<li>Put the following reference to the Virtual Keyboard Manager (VKM) in the appropriate page:
+<p>&lt;script src=&quot;http://varunk.net/vkm-0.4.8.js&quot; type=&quot;text/javascript&quot;>&lt;/script&gt;</p>
+</li>
+<li>Create a JavaScript script tag and write the following function:
+<pre>&lt;script language=&quot;javascript&quot;&gt;
+	function initVKM() {
+			registerTextCtrl(&quot;textControlId&quot;, &quot;VKLName&quot;, &quot;KEY&quot;);
+	}
+&lt;/script&gt;
+</pre>
+</li>
+<li>Substitute parameters according to your requirements and selection.</li>
+</ol>
+<p>
+That’s it! You are done!
+<br />
+Note: There are many functions exposed by VKM and that are used in Akshar but as of now they are not documented until the interface gets finalized for public use. Hence, they are subject to change.
+</p>
+</div>
+<div id="footer" role="contentinfo">
+Copyright 2010-2011 Varun Khosla | <a href="feedback.aspx">Feedback</a> | <a href="mailto:varunkhosla@outlook.com">Contact</a>
+</div>
+</body>
+</html>

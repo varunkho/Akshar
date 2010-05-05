@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Akshar: an Accessible, Embeddable and Multilingual Online Word Processor.</title>
+    <script src="/swfobject.js"></script>
+        <link rel="Stylesheet" type="text/css" href="/layout.css" />
+</head>
+<body>
+<div id="header" role="navigation">
+<ul id="navBar">
+<li><a href="index.html">Home</a></li>
+<li><a href="Akshar.aspx">Akshar</a></li>
+<li><a href="accessibility.html">Accessibility</a></li>
+<li><a href="embed.html">Embed</a></li>
+<li><a href="vkl-faq.html">VKL FAQ</a></li>
+<li><a href="account.aspx">My Account</a></li>
+</ul>
+<br class="spacer" />
+</div>
+<div id="previewvid" role="application">
+  <a href="/images/Akshar.wmv">download</a> the wmv file if flash is not working/installed.
+</div>
+<script type="text/javascript"> 
+var s1 = new SWFObject("/player.swf","ply","670","450","9","#FFFFFF"); 
+s1.addParam("allowfullscreen","true"); 
+s1.addParam("allowscriptaccess","always"); 
+s1.addParam("seamlesstabbing","true"); 
+s1.addParam("flashvars", "file=/images/Akshar.flv&image=/images/akshar.gif&captions.file=/images/Akshar.xml&plugins=captions-1"); 
+s1.write("previewvid");
+</script>
+<div id="content" role="main">
+<h1 style="text-align:center;">Welcome to Akshar</h1>
+<p><a href="Akshar.aspx">Akshar</a> (a term for character/letter in Hindi) is an accessible, embeddable, highly extensible, multilingual online word processor for all.</p>
+<p><a href="Akshar.aspx">Akshar</a> features:
+<ul>
+<li>The ability to type in any language out of the box, without installing any add-on or using any specific language services provided by some operating system.
+<p>The flash movie just at the top of this page demonstrates this ability. Specifically, it shows a sentence (briefing Akshar's features) being written in 8 different languages. The movie accompanies the audio description in which the same sentence is recited along, however in English only (obviously the purpose here is to demonstrate multilingual tcapability of Akshar and not mine :-)).</p>
+<p>If you are unable to play the movie for any reason, you can download it in <a href="images/Akshar.flv">FLV</a> or <a href="images/Akshar.wmv">WMV</a> format.</p>
+</li>
+<li>The ability to easily create and/or customize a key/character mappings called Virtual Keyboard Layout (VKL) for a language, while also maintaining a single default VKL for each language. It also allows users to share their personal VKLs.
+<p>The multilingual feature of Akshar depends on this VKL technology. I have tried to develop an intuitive interface to enable  users to quickly and easily create/edit VKLs. The interface also makes it very easy for users to customize existing VKLs (even the ones created by others).</p>
+<p>You can <a href="vkl-faq.html">learn more</a> about VKL, or can <a href="keyboard.aspx">start experimenting</a> with it immediately.</p>
+</li>
+<li>The ability to embed this VKL technology into third-party sites simply with the inclusion of a publically available JavaScript file, enabling their users to easily express themselves in regional languages.
+<p>This embeddable script, named Virtual Keyboard Manager (VKM), fetches requested VKLs from a web service realizing their reuse, sharing and centralized management. 
+VKL is internally represented as Extensible Markup Language (XML) which makes it ideal to be shared and used across the web with diverse development technologies. This also means that it would be possible for people to create custom VKM for specific needs.</p>
+<p><a href="embed.html">Learn more</a> how simple it is to embed multilingual input support in your website simply by adding a reference to VKM.</p>
+</li>
+ <li>The ability to expose VKL input to accessibility clients (such as screen readers) with specific markup attributes.
+ <p><a href="accessibility.html#vklac">Learn more</a> how screen readers (such as Jaws) may detect VKL enabled text controls, and capture the text generated when a key is pressed.</p>
+ </li>
+<li>Akshar takes accessibility of online rich editors a step further by providing keyboard alternatives to formatting, navigation and editing commands.
+<p><a href="accessibility.html">Learn more</a> about Akshar accessibility features and how can they enrich online word processing experience for people with disability.</p>
+</li>
+</ul>
+</p>
+</div>
+<div id="footer" role="contentinfo">
+Copyright 2010-2011 Varun Khosla | <a href="feedback.aspx">Feedback</a> | <a href="mailto:varunkhosla@outlook.com">Contact</a>
+</div>
+</body>
+</html>

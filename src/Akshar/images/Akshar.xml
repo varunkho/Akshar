@@ -1,0 +1,16 @@
+	<tt xmlns="http://www.w3.org/2006/10/ttaf1">
+  <body>
+    <div xml:id="captions">
+      <p begin="00:01" end="00:03">Akshar</p>
+      <p begin="00:04" end="00:07">is an</p>
+      <p begin="00:08" end="00:12.33">accessible</p>
+      <p begin="00:13" end="00:17.44">embeddable</p>
+      <p begin="00:18" end="00:26">highly extensible</p>
+      <p begin="00:27" end="00:33">multilingual</p>
+      <p begin="00:34" end="00:37.8">online</p>
+      <p begin="00:38" end="00:45.7">word processor</p>
+      <p begin="00:46" end="00:48.44">for</p>
+      <p begin="00:49" end="00:54.7">all</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Accessibility of Akshar</title>
+    <link rel="Stylesheet" type="text/css" href="/layout.css" />
+    <style>
+            h1, h2, h3 {
+        text-align:center;
+        }
+    </style>
+</head>
+<body>
+<div id="header" role="navigation">
+<ul id="navBar">
+<li><a href="index.html">Home</a></li>
+<li><a href="Akshar.aspx">Akshar</a></li>
+<li><a href="accessibility.html">Accessibility</a></li>
+<li><a href="embed.html">Embed</a></li>
+<li><a href="vkl-faq.html">VKL FAQ</a></li>
+<li><a href="account.aspx">My Account</a></li>
+</ul>
+<br class="spacer" />
+</div>
+<div id="content" role="main">
+<h1 >Accessibility of Akshar</h1>
+<p>Accessibility of Akshar is not a coincident; right from the outset, it has been built with a vision of an online word processor that must be accessible. Here are some of the accessibility initiatives I have taken for Akshar:</p>
+<h2>Quick Command</h2>
+<p>Quick Command (Hereafter pronounced as QuiC) is a method for users to issue various types of commands with 
+keyboard while working in the edit area. Although it may sound similar to keyboard shortcuts feature found in 
+most desktop applications, but it is quite different and more powerful than shortcuts feature.</p>
+<p>QuiC works as follows: while focus is in the Akshar’s edit area, 
+user presses the QuiC key (shift+3). Thereafter, every key input is captured in a command buffer 
+rather than being rendered on the screen. When user presses the space key, 
+QuiC mode terminates and if a valid command is found in the QuiC buffer, it is executed. 
+If user presses QuiC key twice, the key is passed and the buffering does not start. User can, any time, terminate QuiC mode by pressing the QuiC key. While in QuiC mode, the backspace key deletes the last character entered in the buffer.</p>
+
+<p>Following is a categorized list of QuiC commands that are available in this first version of Akshar:</p>
+<p>Note: QuiC commands are not case-sensitive for convenience.</p>
+<h3>Formatting Commands</h3>
+<dl>
+<dt>I</dt>
+<dd>Toggles italic on the selected text.</dd>
+<dt>B</dt>
+<dd>Toggles bold on the selected text.</dd>
+<dt>U</dt>
+<dd>Toggles underline on the selected text.</dd>
+<dt>UL</dt>
+<dd>Inserts unordered list</dd>
+<dt>OL</dt>
+<dd>Inserts ordered list</dd>
+<dt>SUP</dt>
+<dd>Toggles superscript on selected text </dd>
+<dt>SUB</dt>
+<dd>Toggles subscript on selected text</dd>
+<dt>JL</dt>
+<dd>Left-justifies the format block in which the current selection is located.</dd>
+<dt>JC</dt>
+<dd>Centers the format block in which the current selection is located.</dd>
+<dt>JR</dt>
+<dd>Right-justifies the format block in which the current selection is located.</dd>
+<dt>FC (followed by standard colors’ names or a hexadecimal color value)</dt>
+<dd>Sets the foreground (text) color of the current selection.
+<p>Examples: (both apply red color) 
+<ol>
+<li>FCred</li>
+<li>FCff0000</li>
+</ol>
+</p>
+</dd>
+<dt>BC (followed by standard colors’ names or a hexadecimal color value)</dt>
+<dd>Sets the background (text) color of the current selection.
+<p>Examples: (both apply red color) 
+<ol>
+<li>BCred</li>
+<li>BCff0000</li>
+</ol>
+</p>
+</dd>
+<dt>CLS</dt>
+<dd>Removes the formatting tags from the current selection.</dd>
+<dt>FS (followed by a value between 1 and 7, inclusive)</dt>
+<dd>Sets the font size for the current selection.</dd>
+</dl>
+<p>Note: The underlying infrastructures of some browsers and/or specific versions of a browser may interpret the actual command (converted by QuiC) differently and thus a specific command may not behave the way it is mentioned here.</p>
+<h3>Navigation Commands</h3>
+<dl>
+<dt>1/or any other number</dt>
+<dd>Switches to the document as indicated by its position in the Document menu (the first listed document in the menu has number 1).</dd>
+<dt>M</dt>
+<dd>Sets focus to the menu bar (File menu)</dd>
+<dt>MF</dt>
+<dd>Opens file menu and sets focus on first menu item.</dd>
+<dt>MV</dt>
+<dd>Opens View menu and sets focus on first menu item.</dd>
+<dt>ML</dt>
+<dd>Opens Language menu and sets focus on first menu item.</dd>
+<dt>MD</dt>
+<dd>Opens Document menu and sets focus on first menu item.</dd>
+<dt>MT</dt>
+<dd>Opens Tools menu and sets focus on first menu item.</dd>
+<dt>MH</dt>
+<dd>Opens Help menu and sets focus on first menu item.</dd>
+</dl>
+<h3>File Related Commands</h3>
+<dl>
+<dt>N</dt>
+<dd>Creates a new, empty document.</dd>
+<dt>O</dt>
+<dd>Opens Open dialog and sets focus on it.</dd>
+<dt>S</dt>
+<dd>Issues Save command</dd>
+<dt>SA</dt>
+<dd>Opens Save as dialog and sets focus on it.</dd>
+<dt>C</dt>
+<dd>Issues Close command</dd>
+</dl>
+<h2>Other Akshar’s Accessibility Features</h2>
+<p>Although QuiC provides an enhanced method for issuing various types of commands, all attempts have been made to make menus and dialog boxes fully accessible by themselves.</p>
+<ul>
+<li>users can easily navigate menu system and dialog boxes using the tab key. When a sub menu/dialog box is opened, it automatically gets the focus. it can subsequently be terminated by pressing the escape key.</li>
+<li>The Accessible Rich Internet Applications Suite (WAI-ARIA) guidelines have been implemented to provide:
+<ul>
+<li>A desktop-like menu interface – if you press enter/space bar to activate a top-menu (e.g. File), you enter into this mode. You can use Up or Down arrow keys to move to a previous or a next menu item, respectively within the same popup menu. Similarly, using Left or Right arrow keys, you can move across popup menus. Pressing escape once collapses the current popup menu and focus shifts onto the associated top-level menu. If you press escape once again, the focus will turn to the document edit area.
+<p>Note: if your screen reader intercepts the escape key to turn off the forms mode (Jaws does this), you must press escape twice and thrice to achieve the above functionalities respectively.</p>
+</li>
+<li>division of the application using landmarks.</li>
+</ul>
+<p>Note: for above WAI-ARIA features to work for you, your screen reader must support them in the first place.</p>
+</li>
+</ul>
+<h2><a name="vklac">Virtual Keyboard Layout (VKL) Accessibility</a></h2>
+<p>The VKL technology works in JavaScript by intercepting keyboard input. The accessibility clients (such as screen readers) intercept keyboard input at the much lower level (by using system hooks). Hence, in usual scenario, such applications won’t be able to capture text generated by VKL input unless they attempt to do the following:</p>
+<ol>
+<li>A VKL bound control has an attribute vklInput defined which can be easily detected by screen readers and other accessibility clients.</li>
+<li>Once an accessibility client has detected that a control is VKL bound, it should refrain from speaking the key input in a way as it usually does. Rather, it should wait, and let the key be passed to the browser application so that it can be processed by VKM.</li>
+<li>Once a key input is processed, if it results in some text, the VKL bound control will have a keyEnter attribute (a flag) defined and the actual generated text can be extracted from the attribute named vklText.</li>
+</ol>
+<p>I will soon post a Jaws script file to demonstrate how easy it is to understand and process VKL by a screen reader (in this case no particular support may be required from the screen reader vendor!)</p>
+</div>
+<div id="footer" role="contentinfo">
+Copyright 2010-2011 Varun Khosla | <a href="feedback.aspx">Feedback</a> | <a href="mailto:varunkhosla@outlook.com">Contact</a>
+</div>
+</body>
+</html>
