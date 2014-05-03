@@ -1,7 +1,7 @@
 Background
 =================
 
-Akshar was created in late 2009-early 2010 and was featured in semifinal of [Microsoft Imagine Cup](www.imaginecup.com) world-wide Next Generation Web Award (2010) competition. [Watch Akshar multilingual capabilities on Youtube](www.youtube.com/embed/UitLcDIWOU8?rel=0)
+Akshar was created in late 2009-early 2010 and was featured in semifinal of [Microsoft Imagine Cup](http://www.imaginecup.com) world-wide Next Generation Web Award (2010) competition. [Watch Akshar multilingual capabilities on Youtube](http://www.youtube.com/embed/UitLcDIWOU8?rel=0)
 
 Introduction
 =================
@@ -10,27 +10,27 @@ Akshar (a term for character/letter in Hindi) is an accessible, embeddable, high
 
 -   Ability to type in any language out of the box, without installing any add-on or using any specific language services provided by the host operating system.
 
-    For a quick demonstration, [watch This video](www.youtube.com/embed/UitLcDIWOU8?rel=0). Aforementioned video shows a sentence (briefing Akshar's features) being written in 8 different languages. It accompanies the audio description in which the same sentence is recited along, however in English only (obviously the purpose here is to demonstrate multilingual tcapability of Akshar and not mine :)).
+    For a quick demonstration, [watch This video](http://www.youtube.com/embed/UitLcDIWOU8?rel=0). Aforementioned video shows a sentence (briefing Akshar's features) being written in 8 different languages. It accompanies the audio description in which the same sentence is recited along, however in English only (obviously the purpose here is to demonstrate multilingual tcapability of Akshar and not mine :)).
 
 -   The ability to easily create and/or customize a key/character mappings called Virtual Keyboard Layout (VKL) for a language, while also maintaining a single default VKL for each language. It also allows users to share their personal VKLs.
 
     The multilingual feature of Akshar depends on this VKL technology. I have tried to develop an intuitive interface to enable users to quickly and easily create/edit VKLs. The interface also makes it very easy for users to customize existing VKLs (even the ones created by others).
 
-    [Learn more](#vkl-faq) about VKL.
+    [Learn more](#user-content-vkl-faq) about VKL.
 
 -   The ability to embed this VKL technology into third-party sites simply with the inclusion of a publically available JavaScript file, enabling their users to easily express themselves in regional languages.
 
     This embeddable script, named Virtual Keyboard Manager (VKM), fetches requested VKLs from a web service realizing their reuse, sharing and centralized management. VKL is internally represented as Extensible Markup Language (XML) which makes it ideal to be shared and used across the web with diverse development technologies. This also means that it would be possible for people to create custom VKM for specific needs.
 
-    [Learn more](#embed)
+    [Learn more](#user-content-embed)
 
 -   The ability to expose VKL input to accessibility clients (such as screen readers) with specific markup attributes.
 
-    [Learn more](#access-vkl) how screen readers (such as Jaws) may detect VKL enabled text controls, and capture the text generated when a key is pressed.
+    [Learn more](#user-content-access-vkl) how screen readers (such as Jaws) may detect VKL enabled text controls, and capture the text generated when a key is pressed.
 
 -   Akshar takes accessibility of online rich editors a step further by providing keyboard alternatives to formatting, navigation and editing commands.
 
-    [Learn more](#accessibility) about Akshar accessibility features and how can they enrich online word processing experience for people with disability.
+    [Learn more](#user-content-accessibility) about Akshar accessibility features and how can they enrich online word processing experience for people with disability.
 
 <a name="vkl-faq"></a>Creating Virtual Keyboard Layout (VKL): Frequently Asked Questions
 ==================================================================
