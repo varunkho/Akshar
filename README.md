@@ -6,7 +6,7 @@ Akshar was created in late 2009-early 2010 and was featured in semifinal of [Mic
 Introduction
 =================
 
-Akshar (a term for character/letter in Hindi) is an accessible, embeddable, highly extensible, multilingual online word processor for all. It Features:
+Akshar (a term for character/letter in Hindi) is an accessible, embeddable, truly multilingual, completely JavaScript driven online word processor. It Features:
 
 -   Ability to type in any language out of the box, without installing any add-on or using any specific language services provided by the host operating system.
 
